@@ -1,0 +1,30 @@
+/* Root */
+:root {
+        --color1: #AEB8BD;
+        --color2: #FAF6FB;
+        --color3: #1461A1;
+        --color4: #353644;
+        --color5: #539EB3;
+        --color6: #CA2224;
+        --color7: #046CBD;
+}
+/* Root */
+
+/* Reset */
+* {
+        padding: 0; margin: 0;
+        box-sizing: border-box;
+}
+
+ul li {
+        list-style: none;
+}
+
+a {
+        text-decoration: none;
+}
+
+body {
+        font-family: "Poppins" ;
+}
+/* Reset */
